@@ -1,0 +1,6 @@
+setup.py
+src/cardgamewar.egg-info/PKG-INFO
+src/cardgamewar.egg-info/SOURCES.txt
+src/cardgamewar.egg-info/dependency_links.txt
+src/cardgamewar.egg-info/requires.txt
+src/cardgamewar.egg-info/top_level.txt
