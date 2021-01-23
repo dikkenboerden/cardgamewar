@@ -15,10 +15,10 @@ class Deck:
                 self._all_cards.append(created_card)
 
     @property
-    def all_cards(self) -> List:
+    def all_cards(self) -> []:
         return self._all_cards
 
-    def shuffle_deck(self) -> List:
+    def shuffle_deck(self) -> []:
         random.shuffle(self.all_cards)
 
     def deal_one(self) -> Card:
